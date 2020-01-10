@@ -3,6 +3,15 @@ title: Ionic Battery Alert
 description: Device's battery status notification
 ---
 
+
+# cordova-plugin-raqmiyat-battery
+
+
+## Installation
+    ionic cordova plugin add cordova-plugin-raqmiyat-battery (or)
+    ionic cordova plugin add https://github.com/AndroidManikandan5689/IonicPluginBatteryAlert.git
+
+
 ## Supported Platforms
 - Android
 - Ios
