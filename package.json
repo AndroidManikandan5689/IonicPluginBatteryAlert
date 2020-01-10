@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-raqmiyat-battery",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-raqmiyat-battery",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Manikandan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndroidManikandan5689/IonicPluginBatteryAlert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndroidManikandan5689/IonicPluginBatteryAlert/issues"
+  },
+  "homepage": "https://github.com/AndroidManikandan5689/IonicPluginBatteryAlert#readme",
+  "description": ""
+}
